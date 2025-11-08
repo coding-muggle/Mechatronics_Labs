@@ -4,7 +4,6 @@
 #include <vector>
 #include <fstream>
 #include <utility>
-
 #include "utils.h"
 #include "render.h"
 
