@@ -7,12 +7,11 @@
 #include <sstream>
 #include <utility>
 #include <vector>
-
 #include "utils.h"
 #include "render.h"
 
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-//+++++++++++++++++++Modify my_robot class here+++++++++++++++++++
+//+++++++++++++++++++Modify my_robot class here+++++++++++++++++++++++
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // my_robot sub-class
 // modify here so it inherits from the Object class from utils.h
